@@ -21,7 +21,7 @@ A simulated CPU with a whole Datapath, including all parts like ALUs and registe
 ### Project 3: Crypto Coin Mining and Hash Function Optimization
 The task is to use multiple methods like multithread to optimize the SHA256 hash function in a Crypto Coin mining process.
 ### Project 4: Longan_Board_RISC-V_Game
-It is a RISC-V and C based  game on a [longan- nano][1]  board. We named it _SPACE RESCUE_
+It is a RISC-V and C based  game on a [longan- nano][1]  board. We named it _SPACE RESCUE_. 
 The ATARI-styled introduction booklet and outer controller hardware are build for fun and completion.
 
 Booklet & Hardware:
