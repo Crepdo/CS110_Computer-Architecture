@@ -25,10 +25,12 @@ It is a RISC-V and C based  game on a [longan- nano][1]  board. We named it _SPA
 The ATARI-styled introduction booklet and outer controller hardware are build for fun and completion.
 
 Booklet & Hardware:
-![image-20220124232705701](C:\Users\LZB\Desktop\CA\CS110_Computer-Architecture\README.assets\image-20220124232705701.png)
 
-![image-20220124232728066](C:\Users\LZB\Desktop\CA\CS110_Computer-Architecture\README.assets\image-20220124232728066.png)
 
-![image-20220124235132311](C:\Users\LZB\Desktop\CA\CS110_Computer-Architecture\README.assets\image-20220124235132311.png)
+![image-20220124232705701](README.assets/image-20220124232705701.png)
+
+![image-20220124232728066](README.assets/image-20220124232728066.png)
+
+![image-20220124235132311](README.assets/image-20220124235132311.png)
 
 [1]: https://github.com/topics/longan-nano
