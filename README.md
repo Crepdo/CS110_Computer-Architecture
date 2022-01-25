@@ -5,7 +5,7 @@ See for details:
 https://robotics.shanghaitech.edu.cn/courses/ca/21s/  
 https://inst.eecs.berkeley.edu/~cs61c/sp21/  
 
-All these works are done with my teammate @NextBG , thanks for his works!
+All these works are done with my teammate [@NextBG][1] , thanks for his works!
 
 *****
 ## Projects Introduction
@@ -21,7 +21,7 @@ A simulated CPU with a whole Datapath, including all parts like ALUs and registe
 ### Project 3: Crypto Coin Mining and Hash Function Optimization
 The task is to use multiple methods like multithread to optimize the SHA256 hash function in a Crypto Coin mining process.
 ### Project 4: Longan_Board_RISC-V_Game
-It is a RISC-V and C based  game on a [longan- nano][1]  board. We named it _SPACE RESCUE_. 
+It is a RISC-V and C based  game on a [longan- nano][2]  board. We named it _SPACE RESCUE_. 
 The ATARI-styled introduction booklet and outer controller hardware are build for fun and completion.
 
 Booklet & Hardware:
@@ -33,4 +33,6 @@ Booklet & Hardware:
 
 ![image-20220124235132311](README.assets/image-20220124235132311.png)
 
-[1]: https://github.com/topics/longan-nano
+[1]: https://github.com/NextBG
+
+[2]: https://github.com/topics/longan-nano
