@@ -15,13 +15,13 @@ RISC-V - Machine Code assembler & disassembler.
 
 ### Project 2: CPU and Datapath
 
-A simulated CPU with a whole Datapath, including all parts like ALUs and registers to accomplish a small RISCV instruction set. (Based on _Logisim_)
+A simulated CPU with a whole Datapath, including all parts like ALUs and registers to accomplish a small RISCV instruction set. (Based on [_Logisim_][2])
 
 
 ### Project 3: Crypto Coin Mining and Hash Function Optimization
 The task is to use multiple methods like multithread to optimize the SHA256 hash function in a Crypto Coin mining process.
 ### Project 4: Longan_Board_RISC-V_Game
-It is a RISC-V and C based  game on a [longan- nano][2]  board. We named it _SPACE RESCUE_. 
+It is a RISC-V and C based  game on a [longan- nano][3] board. We named it _SPACE RESCUE_. 
 The ATARI-styled introduction booklet and outer controller hardware are build for fun and completion.
 
 Booklet & Hardware:
@@ -35,4 +35,6 @@ Booklet & Hardware:
 
 [1]: https://github.com/NextBG
 
-[2]: https://github.com/topics/longan-nano
+[2]: http://www.cburch.com/logisim/download.html
+
+[3]: http://longan.sipeed.com/en/
