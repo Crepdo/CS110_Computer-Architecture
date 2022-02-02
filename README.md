@@ -15,7 +15,7 @@ RISC-V - Machine Code assembler & disassembler.
 
 ### Project 2: CPU and Datapath
 
-A simulated CPU with a whole Datapath, including all parts like ALUs and registers to accomplish a small RISCV instruction set. (Based on [_Logisim_][2])
+A simulated CPU with a whole Datapath, including all parts like ALUs and registers to accomplish a small RISC-V instruction set. (Based on [_Logisim_][2])
 
 
 ### Project 3: Crypto Coin Mining and Hash Function Optimization
