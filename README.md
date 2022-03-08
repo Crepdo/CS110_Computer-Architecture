@@ -1,6 +1,6 @@
 # CS110_Computer-Architecture
 Projects of Shanghaitech _CS110 Computer-Architecture_ which based on:  
-UCB _CS61C Great Ideas in Computer Architecture (Machine Structures)_  
+UC Berkeley _CS61C Great Ideas in Computer Architecture (Machine Structures)_  
 See for details:  
 https://robotics.shanghaitech.edu.cn/courses/ca/21s/  
 https://inst.eecs.berkeley.edu/~cs61c/sp21/  
